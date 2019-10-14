@@ -30,3 +30,7 @@ Lastly, you can change the values of `keep_nsfw` and `keep_non_nsfw` to your lik
 In order for this to work, you need to have [Python](https://www.python.org/downloads/) installed alongside withx the [praw module](https://pypi.org/project/praw/).
 Finally, you can execute the program by navigating to the location of the script in your command prompt and typing "python unsaver.py"
 It will start going through your saved posts and write all unsaved posts to a `removals.txt` file in the same directory.
+
+## Further info
+
+I used praw 6.4.0 and Python 3.7.3
